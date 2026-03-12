@@ -1,17 +1,4 @@
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=250&section=header&text=%5B%20SCENARIO%20INITIATED%20%5D&fontSize=42&animation=fadeIn&fontAlignY=40&desc=The%20one%20who%20reads%20the%20end%20from%20the%20beginning&descAlignY=62&descAlign=50&fontColor=ffffff)
-
-</div>
-
-```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-  [ SYSTEM ALERT ] A new Constellation has fixed its gaze upon you.
-  Only one who has read to the very last line may continue.
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
-<div align="center">
 <div style="display:inline-block; text-align:left">
 
 <img src="https://i.pinimg.com/originals/3b/b4/a2/3bb4a2e85d3b61cf451a99c9f4b70cba.gif" width="260" />
@@ -107,18 +94,12 @@
 ## ◈ TRANSMISSION CHANNELS ◈
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naylannajwa)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/naylannajwa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6ee7f7?style=for-the-badge&logo=About.me&logoColor=black)](https://naylannajwa.dev)
-
-![Profile Views](https://komarev.com/ghpvc/?username=naylannajwa&color=6ee7f7&style=flat-square&label=INCARNATIONS+WITNESSED)
-
+[![Instagram](https://www.instagram.com/naylannajwa_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+[![Portfolio]()
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naylannajwa)
 <br/>
-
 > *「 The Constellation of Brilliant Fragments smiles upon this repository. 」*  
 > *The story isn't over. Turn the page.*
-
 <br/>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer)
-
 </div>
