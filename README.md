@@ -1,3 +1,7 @@
+<div align="center">
+<div style="display:inline-block; text-align:center">
+
+
 ## ✦ A new constellation is watching your profile ✦
 
 > *There are three ways to survive in this digital world.*  
@@ -7,13 +11,9 @@
 </div>
 </div>
 
-<br/>
-
 <div align="center">
 
 ## ✦ STATUS WINDOW ✦
-
-</div>
 
 ```yaml
 ╔══════════════════════════════════════════════════════════╗
@@ -70,15 +70,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naylannajwa&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=6ee7f7&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-
 ## ◈ SCENARIO ACHIEVEMENTS ◈
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naylannajwa&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-</div>
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -103,5 +95,5 @@
 > *「 The Constellation of Brilliant Fragments smiles upon this repository. 」*  
 > *The story isn't over. Turn the page.*
 <br/>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0077B5,6ee7f7&height=120&section=footer)
+
 </div>
