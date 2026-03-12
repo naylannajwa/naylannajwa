@@ -1,33 +1,28 @@
-# Halo, saya Naylannajwa! 👋
 <div align="center">
 
-Selamat datang di sudut digital saya! Saya seorang pengembang yang bersemangat dalam menciptakan solusi inovatif dan menjelajahi teknologi baru. Saya percaya pada kekuatan kode untuk mengubah ide menjadi kenyataan dan selalu mencari tantangan berikutnya.
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=250&section=header&text=System%20Loaded&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Welcome%20Incarnation&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=System%20Loaded&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Welcome%20Incarnation&descAlignY=60&descAlign=50&fontColor=ffffff)
 
-## Tentang Saya
+# Halo, saya Naylannajwa! 👋
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" style="border-radius: 10px;" />
+
 ### 「 A new constellation is looking at your profile 」
 
-Saya suka belajar hal baru dan berkontribusi pada proyek *open source*. Fokus utama saya saat ini adalah:
 > *[ SYSTEM MESSAGE ]*
 >
 > *There are three ways to survive in this digital world. I have forgotten some, but one thing is certain: **you who are reading this will witness my code.***
 
--   Bahasa Pemrograman: Python, JavaScript, TypeScript
--   Framework/Library: React, Node.js, Next.js, FastAPI
--   Database: PostgreSQL, MongoDB
--   Cloud: AWS, Google Cloud Platform
 <br/>
 
-## Statistik GitHub Saya
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  STATUS WINDOW                                          [-]  ║
-╠══════════════════════════════════════════════════════════════╣
-║  Name       : Naylannajwa                                    ║
-║  Attribute  : Innovative Developer (Heroic)                  ║
-║  Trait      : Quick Learner, Open Source Contributor         ║
-║  Affiliation: <Dev/Community>                                ║
-╚══════════════════════════════════════════════════════════════╝
+## ✦ STATUS WINDOW ✦
+
+```yaml
+Name       : Naylannajwa
+Class      : Innovative Developer
+Rank       : Heroic
+Attributes : [Quick Learner, Open Source Contributor]
+Mana       : 100%
+Status     : Coding...
 ```
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naylannajwa&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
