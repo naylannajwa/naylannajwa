@@ -1,12 +1,3 @@
-<div align="center">
-<div style="display:inline-block; text-align:left">
-
-<img src="https://i.pinimg.com/originals/3b/b4/a2/3bb4a2e85d3b61cf451a99c9f4b70cba.gif" width="260" />
-&nbsp;&nbsp;
-<img src="https://media.tenor.com/7HNTXV8jnbYAAAAd/typing-fast.gif" width="200" />
-
-<br/><br/>
-
 ## ✦ A new constellation is watching your profile ✦
 
 > *There are three ways to survive in this digital world.*  
@@ -59,6 +50,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
 </div>
 
@@ -76,7 +74,7 @@
 
 ## ◈ SCENARIO ACHIEVEMENTS ◈
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naylannajwa&theme=radical&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naylannajwa&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
@@ -105,5 +103,5 @@
 > *「 The Constellation of Brilliant Fragments smiles upon this repository. 」*  
 > *The story isn't over. Turn the page.*
 <br/>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0077B5,6ee7f7&height=120&section=footer)
 </div>
