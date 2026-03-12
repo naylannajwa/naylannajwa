@@ -1,87 +1,124 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=System%20Loaded&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Welcome%20Incarnation&descAlignY=60&descAlign=50&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=250&section=header&text=%5B%20SCENARIO%20INITIATED%20%5D&fontSize=42&animation=fadeIn&fontAlignY=40&desc=The%20one%20who%20reads%20the%20end%20from%20the%20beginning&descAlignY=62&descAlign=50&fontColor=ffffff)
 
-# Halo, saya Naylannajwa! 👋
+</div>
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" style="border-radius: 10px;" />
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  [ SYSTEM ALERT ] A new Constellation has fixed its gaze upon you.
+  Only one who has read to the very last line may continue.
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
-### 「 A new constellation is looking at your profile 」
+<div align="center">
+<div style="display:inline-block; text-align:left">
 
-> *[ SYSTEM MESSAGE ]*
->
-> *There are three ways to survive in this digital world. I have forgotten some, but one thing is certain: **you who are reading this will witness my code.***
+<img src="https://i.pinimg.com/originals/3b/b4/a2/3bb4a2e85d3b61cf451a99c9f4b70cba.gif" width="260" />
+&nbsp;&nbsp;
+<img src="https://media.tenor.com/7HNTXV8jnbYAAAAd/typing-fast.gif" width="200" />
+
+<br/><br/>
+
+## ✦ A new constellation is watching your profile ✦
+
+> *There are three ways to survive in this digital world.*  
+> *I have forgotten some, but one thing is certain:*  
+> ***you who are reading this will witness my code.***
+
+</div>
+</div>
 
 <br/>
+
+<div align="center">
 
 ## ✦ STATUS WINDOW ✦
 
+</div>
+
 ```yaml
-Name       : Naylannajwa
-Class      : Innovative Developer
-Rank       : Heroic
-Attributes : [Quick Learner, Open Source Contributor]
-Mana       : 100%
-Status     : Coding...
+╔══════════════════════════════════════════════════════════╗
+║                  ◈  INCARNATION STATUS  ◈                ║
+╠══════════════════════════════════════════════════════════╣
+║  Name        :  Naylannajwa                              ║
+║  Class       :  Developer · Open Source Constellation    ║
+║  Rank        :  ✦ Heroic  →  Approaching Myth ✦          ║
+║  Attributes  :  [Quick Learner] [Problem Solver]         ║
+║                 [Open Source Contributor]                ║
+║  Stigma      :  < Compiler of Worlds >                   ║
+║  Coins       :  ∞  (Paid in commits)                     ║
+║  Status      :  ⚡ CODING... scenario not yet finished   ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naylannajwa&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naylannajwa&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-### ✦ EXCLUSIVE SKILLS ✦
+## ◈ EXCLUSIVE SKILLS ◈
 
-## GitHub Trophies
+<div style="display:inline-block; text-align:left">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naylannajwa&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-<br/>
-
-## Streak Kontribusi
-### ✦ STAR STREAM STATISTICS ✦
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naylannajwa&theme=radical&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naylannajwa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
-## Pengunjung Profil
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naylannajwa&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile views](https://komarev.com/ghpvc/?username=naylannajwa&color=brightgreen)
-<br/>
-
-## Mari Terhubung!
-### ✦ SCENARIO ACHIEVEMENTS ✦
-
-Anda bisa menemukan saya di:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naylannajwa&theme=tokyonight&hide_border=true&background=00000000)](https://git.io/streak-stats)
-
--   [LinkedIn](https://www.linkedin.com/in/naylannajwa)
--   [Twitter](https://twitter.com/naylannajwa)
--   [Portofolio Saya](https://naylannajwa.dev) (contoh)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naylannajwa&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
---- 
-<br/>
-
-*"Code is like humor. When you have to explain it, it’s bad."* - Cory House
-### ✦ TRANSMISSION CHANNELS ✦
-
-![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naylannajwa)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/naylannajwa)
-[![](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://naylannajwa.dev)
+</div>
 
 <br/>
 
-> *[ The storytelling of your code has pleased the Constellations. ]*
+## ◈ STAR STREAM STATISTICS ◈
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=100&section=footer)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naylannajwa&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=6ee7f7&icon_color=6ee7f7&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naylannajwa&theme=radical&hide_border=true&background=0d0d0d&ring=6ee7f7&fire=6ee7f7&currStreakLabel=6ee7f7)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naylannajwa&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=6ee7f7&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+## ◈ SCENARIO ACHIEVEMENTS ◈
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=naylannajwa&theme=radical&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  ✦  CONSTELLATION LOG  ✦                                    │
+│                                                             │
+│  > Each commit is a new scenario chapter.                   │
+│  > Each bug is a scenario difficulty spike.                 │
+│  > Each merged PR is a regression cleared.                  │
+│  > The reader who reaches the final line will understand.   │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+## ◈ TRANSMISSION CHANNELS ◈
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naylannajwa)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/naylannajwa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6ee7f7?style=for-the-badge&logo=About.me&logoColor=black)](https://naylannajwa.dev)
+
+![Profile Views](https://komarev.com/ghpvc/?username=naylannajwa&color=6ee7f7&style=flat-square&label=INCARNATIONS+WITNESSED)
+
+<br/>
+
+> *「 The Constellation of Brilliant Fragments smiles upon this repository. 」*  
+> *The story isn't over. Turn the page.*
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer)
 
 </div>
