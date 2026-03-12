@@ -32,8 +32,6 @@
 
 <div align="center">
 
-<br/>
-
 ## ◈ EXCLUSIVE SKILLS ◈
 
 <div style="display:inline-block; text-align:left">
