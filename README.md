@@ -31,7 +31,7 @@
 ```
 
 <div align="center">
-
+  
 ## ◈ EXCLUSIVE SKILLS ◈
 
 <div style="display:inline-block; text-align:left">
@@ -58,8 +58,6 @@
 
 </div>
 
-<br/>
-
 ## ◈ STAR STREAM STATISTICS ◈
 
 | 👤 **CONSTELLATION** | 📊 **STAR STREAM STATS** | 🛠 **MOST USED FABLES** |
@@ -70,9 +68,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naylannajwa&theme=react-dark&bg_color=0d0d0d&color=6ee7f7&line=6ee7f7&point=ffffff&area=true&hide_border=true)
 ---
-> **[The Fourth Wall is shaking slightly.]**
-> *“Keep coding, even if the story has no end.”*
-> 
 
 ## ◈ TRANSMISSION CHANNELS ◈
 
@@ -82,8 +77,9 @@
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@naylannajwa)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naylannajwa)
 <br/>
-> *「 The Constellation of Brilliant Fragments smiles upon this repository. 」*  
-> *The story isn't over. Turn the page.*
-<br/>
 
+> **[The Fourth Wall is shaking slightly.]**
+> *“Keep coding, even if the story has no end.”*
+>
+「 This story is for just that one reader. 」
 </div>
