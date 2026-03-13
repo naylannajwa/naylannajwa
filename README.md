@@ -1,17 +1,27 @@
 <div align="center">
 
 <!-- HEADER: Kaomoji & Title -->
-<pre>
-?         へ   ☆   ╱|、 ...
-     ૮  -   ՛ )      (`   -  7
-       /   ⁻  ៸|       |、⁻〵
- 乀 (ˍ,  ل ل      じしˍ,)ノ
-</pre>
-
-## ✦ THE FOURTH WALL IS BROKEN ✦
-
-> *"In the end, the only scenario left is the one you write yourself."*  
-> ⸻ *Kim Dokja, probably*
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="padding: 0;">
+      <pre style="margin: 0; padding: 0; background: none; border: none;">
+    ?    へ      ☆    ╱|、 ...
+       ૮  -  ՛)      (`  - 7
+        / ⁻  ៸|       |`  ⁻〵
+    乀 (ˍ,  ل ل       じしˍ,)ノ
+      </pre>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 0;">
+      <h2>✦ THE FOURTH WALL IS BROKEN ✦</h2>
+      <blockquote>
+        *"In the end, the only scenario left is the one you write yourself."*  
+        ⸻ *Kim Dokja, probably*
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -25,7 +35,7 @@
 <br/>
 
 <!-- STATUS WINDOW (YAML STYLE) -->
-### ═══════ ✦ INCARNATION STATUS ✦ ═══════
+<h3>═══════ ✦ INCARNATION STATUS ✦ ═══════</h3>
 
 ```yaml
 ╔══════════════════════════════════════════════════════════╗
@@ -36,7 +46,7 @@
 ║  Sponsor        :  (probably a dokkaebi)  ✦              ║
 ║  Current Scenario :  "Open Source Regression"            ║
 ║  Attributes     :  [Quick Learner] [Bug Exterminator]    ║
-║                    [Constellation's Favor]               ║
+║                    [Constellation\'s Favor]               ║
 ║  Stigma         :  < Compiler of Lost Stories >          ║
 ║  Coins          :  ∞   (paid in commits)                 ║
 ║  Status         :  ⚡ Coding... scenario not yet finished ║
@@ -46,7 +56,7 @@
 <br/>
 
 <!-- SKILLS SECTION -->
-### ✦ EXCLUSIVE SKILLS (ACTIVE) ✦
+<h3>✦ EXCLUSIVE SKILLS (ACTIVE) ✦</h3>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -75,7 +85,7 @@
 <br/>
 
 <!-- STATS WITH ORV FLAIR -->
-### ✦ STAR STREAM STATISTICS ✦
+<h3>✦ STAR STREAM STATISTICS ✦</h3>
 
 <table width="100%">
   <tr>
@@ -107,27 +117,27 @@
 <br/>
 
 <!-- SCENARIO LOG / ACHIEVEMENTS -->
-### ✦ SCENARIO CLEAR LOG ✦
+<h3>✦ SCENARIO CLEAR LOG ✦</h3>
 
 ```
-┌────────────────────────────────────────────────────────────────┐
-│  [Constellation 'Naylannajwa']'s Scenario Progression         │
-├────────────────────────────────────────────────────────────────┤
-│  ✧ Main Scenario #1 – "Hello World"                 ▶ CLEAR   │
-│  ✧ Main Scenario #2 – "First PR Merged"             ▶ CLEAR   │
-│  ✧ Main Scenario #3 – "Open Source Contributor"      ▶ ONGOING │
-│  ✧ Hidden Scenario – "Convince Dokkaebi to Sponsor"  ▶ ????    │
-│  ✧ Sub Scenario – "Keep the Streak Alive"            ▶ ACTIVE  │
-│                                                               │
-│  ★ Total Scenario Clear Count: ∞                              │
-│  ★ Sponsor's Favor: 94.7% (⌒‿⌒)                              │
-└────────────────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════════╗
+║  [Constellation \'Naylannajwa\']\'s Scenario Progression         ║
+╠════════════════════════════════════════════════════════════════╣
+║  ✧ Main Scenario #1 – "Hello World"                 ▶ CLEAR   ║
+║  ✧ Main Scenario #2 – "First PR Merged"             ▶ CLEAR   ║
+║  ✧ Main Scenario #3 – "Open Source Contributor"      ▶ ONGOING │
+║  ✧ Hidden Scenario – "Convince Dokkaebi to Sponsor"  ▶ ????    │
+║  ✧ Sub Scenario – "Keep the Streak Alive"            ▶ ACTIVE  │
+║                                                                ║
+║  ★ Total Scenario Clear Count: ∞                              ║
+║  ★ Sponsor\'s Favor: 94.7% (⌒‿⌒)                              ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
 <!-- TOP LANGUAGES -->
-### ✦ MOST USED SKILLS (PROBABILITY WEIGHTED) ✦
+<h3>✦ MOST USED SKILLS (PROBABILITY WEIGHTED) ✦</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=naylannajwa&layout=compact&theme=transparent&hide_border=true&title_color=6EE7F7&text_color=ffffff&bg_color=0a0f1e" />
@@ -138,7 +148,7 @@
 <br/>
 
 <!-- SNAKE GAME -->
-### ✦ SCENARIO REPLAY (SNAKE VIEW) ✦
+<h3>✦ SCENARIO REPLAY (SNAKE VIEW) ✦</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naylannajwa/naylannajwa/output/github-contribution-grid-snake-dark.svg" />
@@ -149,7 +159,7 @@
 <br/>
 
 <!-- CONTACT SECTION -->
-### ✦ TRANSMISSION CHANNELS (DOKKAEBI APPROVED) ✦
+<h3>✦ TRANSMISSION CHANNELS (DOKKAEBI APPROVED) ✦</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/naylannajwa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
