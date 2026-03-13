@@ -66,25 +66,13 @@
 | :---: | :---: | :---: |
 | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIyeGZ0Ym95bm9ueXpueGZ4bm9ueXpueGZ4bm9ueXpueGZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpx4UQHokB6E/giphy.gif" width="120" /> <br> **[Kim Dokja]** | [![Stats](https://github-readme-stats.vercel.app/api?username=naylannajwa&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=6ee7f7&icon_color=6ee7f7&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) | [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naylannajwa&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=6ee7f7&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) |
 
+## ◈ CONTRIBUTION GRAPH (TIMELINE OF THE STAR STREAM)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naylannajwa&theme=react-dark&bg_color=0d0d0d&color=6ee7f7&line=6ee7f7&point=ffffff&area=true&hide_border=true)
 ---
 > **[The Fourth Wall is shaking slightly.]**
 > *“Keep coding, even if the story has no end.”*
 > 
-
-## ◈ SCENARIO ACHIEVEMENTS ◈
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  ✦  CONSTELLATION LOG  ✦                                    │
-│                                                             │
-│  > Each commit is a new scenario chapter.                   │
-│  > Each bug is a scenario difficulty spike.                 │
-│  > Each merged PR is a regression cleared.                  │
-│  > The reader who reaches the final line will understand.   │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
 
 ## ◈ TRANSMISSION CHANNELS ◈
 
