@@ -5,10 +5,10 @@
   <tr>
     <td align="center" style="padding: 0;">
       <pre style="margin: 0; padding: 0; background: none; border: none;">
-    ?    へ      ☆    ╱|、 ...
-       ૮  -  ՛)      (`  - 7
-        / ⁻  ៸|       |`  ⁻〵
-    乀 (ˍ,  ل ل       じしˍ,)ノ
+?         へ    ☆   ╱|、 ...
+       ૮  - ՛)      (` - 7
+       / ⁻  ៸|       |、 ⁻〵
+   乀 (ˍ,  ل ل       じしˍ,)ノ
       </pre>
     </td>
   </tr>
