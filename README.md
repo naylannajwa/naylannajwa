@@ -13,6 +13,8 @@
 
 <div align="center">
 
+<br/>
+
 ## ✦ STATUS WINDOW ✦
 
 ```yaml
@@ -64,7 +66,7 @@
 
 | 👤 **CONSTELLATION** | 📊 **STAR STREAM STATS** | 🛠 **MOST USED FABLES** |
 | :---: | :---: | :---: |
-| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIyeGZ0Ym95bm9ueXpueGZ4bm9ueXpueGZ4bm9ueXpueGZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpx4UQHokB6E/giphy.gif" width="120" /> <br> **[Kim Dokja]** | [![Stats](https://github-readme-stats.vercel.app/api?username=naylannajwa&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=6ee7f7&icon_color=6ee7f7&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) | [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naylannajwa&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=6ee7f7&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) |
+| <img src="https://media.giphy.com/media/PTeydpTTa9am7wqEW7/giphy.gif" width="120" /> | [![Stats](https://github-readme-stats.vercel.app/api?username=naylannajwa&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=6ee7f7&icon_color=6ee7f7&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) | [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naylannajwa&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=6ee7f7&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) |
 
 ## ◈ CONTRIBUTION GRAPH (TIMELINE OF THE STAR STREAM)
 
@@ -76,7 +78,7 @@
 
 ## ◈ TRANSMISSION CHANNELS ◈
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-808080?style=for-the-badge&logo=briefcase&logoColor=white)](https://nayl-aspace.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-808080?style=for-the-badge&logo=briefcase&logoColor oh=white)](https://nayl-aspace.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naylannajwa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naylannajwa_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@naylannajwa)
