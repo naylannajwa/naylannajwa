@@ -13,7 +13,7 @@
 
 <div align="center">
 
-## ✦ STATUS WINDOW ✦
+## ✦ STATUS [WINDOW] ✦
 
 ```yaml
 ╔══════════════════════════════════════════════════════════╗
@@ -32,7 +32,7 @@
 
 <div align="center">
   
-## ◈ EXCLUSIVE SKILLS ◈
+## ◈ SKILLS [ACTIVE FABLES] ◈
 
 <div style="display:inline-block; text-align:left">
 
@@ -60,16 +60,16 @@
 
 ## ◈ STAR STREAM STATISTICS ◈
 
-| 👤 **CONSTELLATION** | 📊 **STAR STREAM STATS** | 🛠 **MOST USED FABLES** |
+| 🦑 **CONSTELLATION** | 📊 **STAR STREAM STATS** | 🛠 **MOST USED FABLES** |
 | :---: | :---: | :---: |
 | <img src="https://media.giphy.com/media/PTeydpTTa9am7wqEW7/giphy.gif" width="120" /> | [![Stats](https://github-readme-stats.vercel.app/api?username=naylannajwa&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=6ee7f7&icon_color=6ee7f7&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) | [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naylannajwa&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=6ee7f7&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) |
 
-## ◈ CONTRIBUTION GRAPH (TIMELINE OF THE STAR STREAM)
+## ◈ CONTRIBUTION GRAPH [FINDING FRAGMENTS]
+![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=naylannajwa&theme=radical&bg_color=0d0d0d&color=6ee7f7&line=6ee7f7&point=ffffff&area=true&hide_border=true&custom_title=Commit%20Records)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naylannajwa&theme=react-dark&bg_color=0d0d0d&color=6ee7f7&line=6ee7f7&point=ffffff&area=true&hide_border=true)
 ---
 
-## ◈ TRANSMISSION CHANNELS ◈
+## ◈ SOCIAL MEDIA [TRANSMISSION CHANNELS] ◈
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-6ee7f7?style=for-the-badge&logo=googlechrome&logoColor=0d0d0d)](https://nayl-aspace.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naylannajwa)
