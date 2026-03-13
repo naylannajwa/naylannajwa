@@ -13,8 +13,6 @@
 
 <div align="center">
 
-<br/>
-
 ## ✦ STATUS WINDOW ✦
 
 ```yaml
