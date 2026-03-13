@@ -76,7 +76,8 @@
 
 ## ◈ TRANSMISSION CHANNELS ◈
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-808080?style=for-the-badge&logo=briefcase&logoColor oh=white)](https://nayl-aspace.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6ee7f7?style=for-the-badge&logo=googlechrome&logoColor=0d0d0d)]
+(https://nayl-aspace.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naylannajwa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naylannajwa_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@naylannajwa)
