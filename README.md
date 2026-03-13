@@ -58,7 +58,7 @@
 
 </div>
 
-## ◈ STAR STREAM STATISTICS ◈
+## ◈ [STAR STREAM] STATISTICS ◈
 
 | 📊 **STAR STREAM STATS** | 🛠 **MOST USED FABLES** |
 | :---: | :---: |
