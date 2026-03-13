@@ -2,7 +2,7 @@
 <div style="display:inline-block; text-align:center">
 
 
-## ✦ A new constellation is watching your profile ✦
+## ✦ A NEW CONSTELLATION IS WATCHING YOUR PROFILE ✦
 
 > *There are three ways to survive in this digital world.*  
 > *I have forgotten some, but one thing is certain:*  
