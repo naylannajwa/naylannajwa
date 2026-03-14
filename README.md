@@ -82,7 +82,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/qermmx3rq4spgfj2sjuzu96bk">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=qermmx3rq4spgfj2sjuzu96bk&redirect=true">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
