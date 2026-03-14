@@ -3,7 +3,6 @@
 </p>
 
 <div align="center">
-<div align="center">
 > *There are three ways to survive in this digital world.*  
 > *I have forgotten some, but one thing is certain:*  
 > ***you who are reading this will witness my code.***
@@ -29,7 +28,7 @@
 ║  Status      :  ⚡ CODING... scenario not yet finished   ║
 ╚══════════════════════════════════════════════════════════╝
 ```
-<div align="center">
+
 <div align="center">
   
 ## ◈ SKILLS [ACTIVE FABLES] ◈
@@ -71,9 +70,18 @@
 
 ---
 
-<!-- Spoti Graph & Snake Game
+<!-- Spoti Graph & Snake Game </picture> -->
+## ◈ [CONTRIBUTION FRAGMENTS]
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naylannajwa/naylannajwa/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naylannajwa/naylannajwa/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/naylannajwa/naylannajwa/output/github-snake.svg" />
+  </picture>
+</div>
 
-</picture> -->
+<br/>
+
 <div align="center">
   <a href="https://open.spotify.com/user/ir5vwhrvwwubwq7i4usevl6zq">
     <picture>
