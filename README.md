@@ -1,7 +1,7 @@
 <div align="center">
 <div style="display:inline-block; text-align:center">
 
-
+alt="Typing animation saying '✦ A NEW CONSTELLATION IS WATCHING YOUR PROFILE ✦!'" 
 ## ✦ A NEW CONSTELLATION IS WATCHING YOUR PROFILE ✦
 
 > *There are three ways to survive in this digital world.*  
@@ -71,6 +71,38 @@
 
 ---
 
+<!-- Spoti Graph & Snake Game
+
+</picture> -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naylannajwa/naylannajwa/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naylannajwa/naylannajwa/output/github-snake.svg" />
+    <img alt="GitHub contribution activity snake animation" src="https://raw.githubusercontent.com/naylannajwa/naylannajwa/output/github-snake.svg" />
+  </picture>
+</div>
+<br/>
+
+<!-- LINE 6 : Alternatif, cuma show spotify -->
+<div align="center">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ir5vwhrvwwubwq7i4usevl6zq&redirect=true">
+        <picture>
+          <source 
+            media="(prefers-color-scheme: dark)" 
+            srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" 
+          />
+          <source 
+            media="(prefers-color-scheme: light)" 
+            srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true" 
+          />
+          <img 
+            alt="Spotify Now Playing" 
+            src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true" 
+          />
+        </picture>
+      </a>
+</div>
+
 ## ◈ SOCIAL MEDIA [TRANSMISSION CHANNELS] ◈
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-6ee7f7?style=for-the-badge&logo=googlechrome&logoColor=0d0d0d)](https://nayl-aspace.vercel.app)
@@ -84,4 +116,9 @@
 > *“Keep coding, even if the story has no end.”*
 >
 「 This story is for just that one reader. 」
+
+<!-- LINE 8: Visitor Count -->
+<div align="center">
+  
+![Visitors](https://komarev.com/ghpvc/?username=naylannajwa&style=flat&label=visitors)
 </div>
