@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  
+<div align="center">
 > *There are three ways to survive in this digital world.*  
 > *I have forgotten some, but one thing is certain:*  
 > ***you who are reading this will witness my code.***
@@ -29,7 +29,7 @@
 ║  Status      :  ⚡ CODING... scenario not yet finished   ║
 ╚══════════════════════════════════════════════════════════╝
 ```
-
+<div align="center">
 <div align="center">
   
 ## ◈ SKILLS [ACTIVE FABLES] ◈
