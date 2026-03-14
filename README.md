@@ -1,9 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%E2%9C%A6+A+NEW+CONSTELLATION+IS+WATCHING+YOUR+PROFILE+%E2%9C%A6" alt="Typing SVG" />
+</p>
+
 <div align="center">
-<div style="display:inline-block; text-align:center">
-
-alt="Typing animation saying '✦ A NEW CONSTELLATION IS WATCHING YOUR PROFILE ✦!'" 
-## ✦ A NEW CONSTELLATION IS WATCHING YOUR PROFILE ✦
-
+  
 > *There are three ways to survive in this digital world.*  
 > *I have forgotten some, but one thing is certain:*  
 > ***you who are reading this will witness my code.***
@@ -14,6 +14,7 @@ alt="Typing animation saying '✦ A NEW CONSTELLATION IS WATCHING YOUR PROFILE �
 <div align="center">
 
 ## ✦ STATUS [WINDOW] ✦
+<div align="center">
 
 ```yaml
 ╔══════════════════════════════════════════════════════════╗
@@ -75,32 +76,22 @@ alt="Typing animation saying '✦ A NEW CONSTELLATION IS WATCHING YOUR PROFILE �
 
 </picture> -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naylannajwa/naylannajwa/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naylannajwa/naylannajwa/output/github-snake.svg" />
-    <img alt="GitHub contribution activity snake animation" src="https://raw.githubusercontent.com/naylannajwa/naylannajwa/output/github-snake.svg" />
-  </picture>
-</div>
-<br/>
-
-<!-- LINE 6 : Alternatif, cuma show spotify -->
-<div align="center">
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ir5vwhrvwwubwq7i4usevl6zq&redirect=true">
-        <picture>
-          <source 
-            media="(prefers-color-scheme: dark)" 
-            srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" 
-          />
-          <source 
-            media="(prefers-color-scheme: light)" 
-            srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true" 
-          />
-          <img 
-            alt="Spotify Now Playing" 
-            src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true" 
-          />
-        </picture>
-      </a>
+  <a href="https://open.spotify.com/user/ir5vwhrvwwubwq7i4usevl6zq">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=compact&show_offline=true&background_color=0d0d0d&interchange=true&bar_color=6ee7f7&bar_color_cover=true" 
+      />
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=compact&show_offline=true&background_color=ffffff&interchange=true&bar_color=1db954&bar_color_cover=true" 
+      />
+      <img 
+        alt="Spotify Now Playing" 
+        src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ir5vwhrvwwubwq7i4usevl6zq&cover_image=true&theme=compact&show_offline=true&background_color=0d0d0d&interchange=true&bar_color=6ee7f7&bar_color_cover=true" 
+      />
+    </picture>
+  </a>
 </div>
 
 ## ◈ SOCIAL MEDIA [TRANSMISSION CHANNELS] ◈
