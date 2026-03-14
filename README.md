@@ -82,7 +82,7 @@
 
 <br/>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qermmx3rq4spgfj2sjuzu96bk&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=true&profanity=false&mode=dark&bar_color=3762b9&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=qermmx3rq4spgfj2sjuzu96bk&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qermmx3rq4spgfj2sjuzu96bk&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=qermmx3rq4spgfj2sjuzu96bk&redirect=true)
 
 ## ◈ SOCIAL MEDIA [TRANSMISSION CHANNELS] ◈
 
