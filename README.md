@@ -12,7 +12,7 @@
 
 <div align="center">
   
-## ✦ STATUS [WINDOW] ✦
+## ◈ STATUS [WINDOW] ◈
 
 ```yaml
 ╔══════════════════════════════════════════════════════════╗
@@ -82,7 +82,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/ir5vwhrvwwubwq7i4usevl6zq">
+  <a href="https://open.spotify.com/user/qermmx3rq4spgfj2sjuzu96bk?si=db2a9a66ebbd41c3">
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
@@ -116,5 +116,5 @@
 <!-- LINE 8: Visitor Count -->
 <div align="center">
   
-![Visitors](https://komarev.com/ghpvc/?username=naylannajwa&style=flat&label=visitors)
+![Visitors](https://komarev.com/ghpvc/?username=naylannajwa&style=flat&color=6ee7f7&label=visitors)
 </div>
