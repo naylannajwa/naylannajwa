@@ -83,21 +83,21 @@
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=qermmx3rq4spgfj2sjuzu96bk&redirect=true">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=qermmx3rq4spgfj2sjuzu96bk&cover_image=true&theme=compact&show_offline=true&background_color=0d0d0d&interchange=true&bar_color=6ee7f7&bar_color_cover=true" 
-      />
-      <source 
-        media="(prefers-color-scheme: light)" 
-        srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=qermmx3rq4spgfj2sjuzu96bk&cover_image=true&theme=compact&show_offline=true&background_color=ffffff&interchange=true&bar_color=1db954&bar_color_cover=true" 
-      />
-      <img 
-        alt="Spotify Now Playing" 
-        src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=qermmx3rq4spgfj2sjuzu96bk&cover_image=true&theme=compact&show_offline=true&background_color=0d0d0d&interchange=true&bar_color=6ee7f7&bar_color_cover=true" 
-      />
-    </picture>
-  </a>
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=qermmx3rq4spgfj2sjuzu96bk&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d0d0d&interchange=true&bar_color=6ee7f7&bar_color_cover=true" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=qermmx3rq4spgfj2sjuzu96bk&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&bar_color=1db954&bar_color_cover=true" 
+    />
+    <img 
+      alt="Spotify Now Playing" 
+      src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=qermmx3rq4spgfj2sjuzu96bk&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d0d0d&interchange=true&bar_color=6ee7f7&bar_color_cover=true" 
+    />
+  </picture>
+</a>
 </div>
 
 ## ◈ SOCIAL MEDIA [TRANSMISSION CHANNELS] ◈
