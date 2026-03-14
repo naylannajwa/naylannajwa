@@ -8,7 +8,6 @@
 > ***you who are reading this will witness my code.***
 
 </div>
-</div>
 
 <div align="center">
 
