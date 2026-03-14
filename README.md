@@ -89,7 +89,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-6ee7f7?style=for-the-badge&logo=googlechrome&logoColor=0d0d0d)](https://nayl-aspace.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naylannajwa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naylannajwa_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
-[![Discord](https://img.shields.io)](https://discord.com/users/1067760902243368990)
+[![Discord](https://img.shields.io/badge/Discord-4F5AE4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1067760902243368990)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@naylannajwa)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naylannajwa)
 <br/>
