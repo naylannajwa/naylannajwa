@@ -9,6 +9,7 @@
 > ***you who are reading this will witness my code.***
 
 <div align="center">
+  
 ## ✦ STATUS [WINDOW] ✦
 
 ```yaml
