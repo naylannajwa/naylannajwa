@@ -26,7 +26,6 @@
 ║  Status      :  ⚡ CODING... scenario not yet finished   ║
 ╚══════════════════════════════════════════════════════════╝
 ```
-
 <div align="center">
   
 ## ◈ SKILLS [ACTIVE FABLES] ◈
