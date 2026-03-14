@@ -14,7 +14,6 @@
 <div align="center">
 
 ## ✦ STATUS [WINDOW] ✦
-<div align="center">
 
 ```yaml
 ╔══════════════════════════════════════════════════════════╗
