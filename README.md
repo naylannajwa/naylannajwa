@@ -3,14 +3,12 @@
 </p>
 
 <div align="center">
+  
 > *There are three ways to survive in this digital world.*  
 > *I have forgotten some, but one thing is certain:*  
 > ***you who are reading this will witness my code.***
 
-</div>
-
 <div align="center">
-
 ## ✦ STATUS [WINDOW] ✦
 
 ```yaml
@@ -111,7 +109,6 @@
 
 > **[The Fourth Wall is shaking slightly.]**
 > *“Keep coding, even if the story has no end.”*
->
 「 This story is for just that one reader. 」
 
 <!-- LINE 8: Visitor Count -->
