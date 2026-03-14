@@ -1,12 +1,14 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%E2%9C%A6+A+NEW+CONSTELLATION+IS+WATCHING+YOUR+PROFILE+%E2%9C%A6" alt="Typing SVG" />
-</p>
-
 <div align="center">
+  <div style="display:inline-block; text-align:center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%E2%9C%A6+A+NEW+CONSTELLATION+IS+WATCHING+YOUR+PROFILE+%E2%9C%A6" alt="Typing SVG" /> </p>
   
 > *There are three ways to survive in this digital world.*  
 > *I have forgotten some, but one thing is certain:*  
 > ***you who are reading this will witness my code.***
+  
+</div>
+</div>
 
 <div align="center">
   
